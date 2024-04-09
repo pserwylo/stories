@@ -12,22 +12,22 @@ But when it finally can't cope and the door opens, out comes rainbow sand.
 # Story
 
 Mana beach was a small beach.
-There was only a little bit of sand, and it quickly turned into forest.
+There was only a little bit of sand, before it quickly turned into forest.
 Nobody really visited Mana beach, except for the wave.
 
 Every day, for thousands of years, the same wave crawled up the sand.
 Each time it rolled up, it would bring a little extra sand with it from the depths of the ocean, and drop it on the beach front.
 
-You could be mistaken for thinking Mana beach was a normal beach.
-You could be mistaken for thinking the wave was a normal wave.
+You could be forgiven for thinking Mana beach was a normal beach.
+You could be forgiven for thinking the wave was a normal wave.
 Neither of them were normal.
 The wave had an important job to do.
-Each time it brought sand from the ocean, it dropped it on a secret trapdoor in the middle of the beach.
+Each time it rolled up, it brought sand from the ocean.
+Each time it brought sand, it dropped it on a secret trapdoor in the middle of the beach.
 It was the waves job to make sure the trapdoor stayed covered, so that nothing from the other side could come through.
 
-It was a tough job, because twice a day, an unstoppable force would suck the wave back into the depths of the ocean, leaving the sand exposed for half the day.
-So the wave only had half a day to bring as much sand as possible, before it was pulled back into the ocean, leaving the beach exposed.
-For the other half of the day, the wind came, trying its best to return the sand back to the ocean.
+It was a tough job, because twice a day, the wave would be dragged back into the depths of the ocean, leaving the sand exposed for half the day.
+While it was gone, the wind would roar, trying its best to return the sand back to the ocean.
 It didn't mean to.
 It didn't dislike the wave, or understand the important work the wave was doing to protect the trapdoor.
 It just loved blowing around, moving things, and seeing what was underneath.
@@ -38,14 +38,17 @@ But it was becoming more difficult.
 There was less sand in the ocean, and the wave was not as strong as it used to be.
 
 Yesterday, something unfortunate happened.
-The wave was pulled back from the beach at the end of the day, and sighed.
-It was a good days work, but not the same as the wave could manage several hundred years ago when it was stroner and there was more sand in the ocean.
+When the wave was pulled back from the beach at the end of the day, it sighed.
+It was tired.
+It was a good days work, but not the same as the wave could manage several hundred years ago when it was stronger and there was more sand in the ocean.
 When night fell, the wind got to work.
-It blew and blew, and the sand slowly moved away from the top of the trap door, until a tiny corner emerged.
+It blew and blew, and the sand slowly moved away from the top of the trapdoor, until a tiny corner emerged.
 
-Wave comes back.
+When the wave came back in the morning, there was a strange light shining through the door of the trapdoor, and a quiet "thump, thump" could be heard on the other side.
+The wave immediately got to work, gathering sand from the depths of the ocean and dumping it on top of the corner of the trapdoor.
+The wave didn't know what was on the other side, but today was not the day it was going to find out.
 
-COvers trapdoor.
+Covers trapdoor.
 
 Then same thing happens again.
 
