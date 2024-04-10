@@ -1,15 +1,4 @@
-# Summary
-
-On a lonely beach (nobody is really there, but maybe sometimes)
-Wave creature.
-Needs to keep getting further and further up the beach to get more sand.
-Tide means half the time the wave isn't there.
-Sand is needed to cover up its trap door so its treasure is kept hidden.
-Trapdoor is to another realm, and creatues are trying to escape.
-It doesn't know what is under, it is afraid of what lies beneath.
-But when it finally can't cope and the door opens, out comes rainbow sand.
-
-# Story
+# The Wave
 
 Mana beach was a small beach.
 There was only a little bit of sand, before it quickly turned into forest.
@@ -45,8 +34,15 @@ When night fell, the wind got to work.
 It blew and blew, and the sand slowly moved away from the top of the trapdoor, until a tiny corner emerged.
 
 When the wave came back in the morning, there was a strange light shining through the door of the trapdoor, and a quiet "thump, thump" could be heard on the other side.
-The wave immediately got to work, gathering sand from the depths of the ocean and dumping it on top of the corner of the trapdoor.
 The wave didn't know what was on the other side, but today was not the day it was going to find out.
+
+The wave immediately got to work, gathering sand from the depths of the ocean and dumping it on top of the corner of the trapdoor.
+By the time the day was complete, the wave was completely exhausted, but it had covered the entire trapdoor.
+As it was dragged away, the wave was sure the beach would be safe from whatever was on the other side of the trapdoor.
+But how wrong it was.
+
+That night the wind was stronger than it had ever been before.
+Perhaps it was excited to see 
 
 Covers trapdoor.
 
