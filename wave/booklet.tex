@@ -1,0 +1,10 @@
+% Combine an 8 multi PDF into a 4x2 page for printing to a booklet.
+% https://stackoverflow.com/a/16123857
+\documentclass[a4paper]{article}
+\usepackage[margin=0mm,nohead,nofoot]{geometry}
+\usepackage{pdfpages}
+\pagestyle{empty}
+\parindent0pt
+\begin{document}
+\includepdfmerge[nup=2x4,landscape]{wave-booklet.pdf,1,wave-booklet.pdf,2,wave-booklet.pdf,3,wave-booklet.pdf,4,wave-booklet.pdf,5,wave-booklet.pdf,6,wave-booklet.pdf,7,wave-booklet.pdf,8}
+\end{document}
