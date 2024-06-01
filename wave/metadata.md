@@ -1,5 +1,5 @@
 ---
-title: Wave
+title: The Wave
 author: Peter Serwylo
 rights: © 2024 Peter Serwylo, CC BY-SA
 documentclass: scrbook

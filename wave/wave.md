@@ -1,5 +1,3 @@
-# The Wave
-
 The beach was a small beach.
 Nobody really visited the beach, except for the wave, and the wind.
 
